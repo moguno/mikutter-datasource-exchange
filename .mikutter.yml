@@ -1,0 +1,9 @@
+---
+slug: :mikutter-datasource-exchange
+depends:
+  mikutter: 3.5.0
+  plugin: []
+version: '0.0.1'
+author: 
+name: mikutter-datasource-exchange
+description: σ(o'v'o)かわせ
